@@ -2,11 +2,11 @@
 In class competition for MSBD 5001
 
 Programming languages: 
-
-python
 ============================================================================================
-Required packages: 
+python
 
+Required packages: 
+============================================================================================
 import pandas as pd
 
 import numpy as np
@@ -26,8 +26,9 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import cross_val_predict
 
 from sklearn.metrics import mean_squared_error
-============================================================================================
+
 How to run it:
+============================================================================================
 1. open the .ipynb in google colab
 2. upload train.csv and test.csv to your google drive
 3. mount the .ipynb at your google drive
