@@ -1,15 +1,14 @@
 # MSBD5001-Fall2018
 In class competition for MSBD 5001
 
-
 Programming languages: 
 
 python
 
-
 Required packages: 
 
 import pandas as pd
+
 import numpy as np
 import math
 from matplotlib import pyplot as plt
